@@ -1,0 +1,2 @@
+C:/Users/NIKITA/Downloads/Inventory/flutter_application_1/android/app/.cxx/Debug/6m6w3g20/x86/CMakeFiles/edit_cache.dir
+C:/Users/NIKITA/Downloads/Inventory/flutter_application_1/android/app/.cxx/Debug/6m6w3g20/x86/CMakeFiles/rebuild_cache.dir
